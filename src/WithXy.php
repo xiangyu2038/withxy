@@ -1,5 +1,5 @@
 <?php
-namespace XY;
+namespace XiangYu2038\WithXy;
 trait WithXy{
     public static function withla($relations)
     {

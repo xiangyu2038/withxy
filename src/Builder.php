@@ -1,5 +1,5 @@
 <?php
-namespace XY;
+namespace XiangYu2038\WithXy;
 use Illuminate\Database\Eloquent\Builder as Builders;
 class Builder extends Builders
 {
